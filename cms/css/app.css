@@ -1,0 +1,38 @@
+#topbar{
+
+
+
+}
+#btnS{
+  background-color: #e6e6e6;
+  margin-top: -6px;
+
+}
+#btnL{
+  background-color: #da1331;
+margin-top: 16px;
+}
+body{
+  background-color: #201c20;
+}
+#img1{
+  max-width: inherit;
+}
+#footerT{
+  font-size: 18px;
+  color: #717171;
+}
+.filterNav{
+  font-size: 30px;
+  color: #201c1d;
+text-transform: uppercase;
+  text-align: center;
+     word-spacing: 40px;
+     text-justify: inter-word;
+}
+
+#h{
+  width: auto;
+    color: white;
+    
+}
